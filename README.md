@@ -10,13 +10,10 @@ Application is build with RESTful APIs , BloC, Architecture Pattern  Clean Code 
 
 <ul dir="auto">
 <li>News Mobile App Responsive UI</li>
-
- Get News based on a Category
-
+<li>Get News based on a Category</li>
 <li>Get Business News </li>
 <li>Get Science News </li>
 <li>Get Sports News </li>
-
 <li>Search About any News</li>
 <li>Light Mode &amp; Dark Mode </li>
 </ul>
