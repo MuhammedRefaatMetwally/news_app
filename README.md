@@ -1,16 +1,28 @@
-# news_app
+# News App -  Architecture Pattern Flutter
 
-A new Flutter project.
 
-## Getting Started
+# Application Architecture
 
-This project is a starting point for a Flutter application.
+Application is build with RESTful APIs , BloC, Architecture Pattern  Clean Code + Maintainable.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# App Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<ul dir="auto">
+<li>News Mobile App Responsive UI</li>
+
+ Get News based on a Category
+
+<li>Get Business News </li>
+<li>Get Science News </li>
+<li>Get Sports News </li>
+
+<li>Search About any News</li>
+<li>Light Mode &amp; Dark Mode </li>
+</ul>
+
+
+
+# Feedback
+
+If you have any feedback, please reach out to me at muhammedrefaat2020@gmail.com .
